@@ -1,2 +1,2 @@
 # Super-message gg
-gg
+Klaudia na prezydenta! 
