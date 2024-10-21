@@ -3,4 +3,7 @@ Klaudia na prezydenta!
 
 ![image](https://github.com/user-attachments/assets/e11d8d28-12b7-429b-b179-7f319c7c7780)
 
-- [Wybierz swojego Prezydenta](https://github.com/Pippi51/Super-message/issues/1#issue-2603110734)
+# Wybierz swojego Prezydenta
+- [ ] Klaudia Franiel  
+- [ ] Brak kandytata
+- [ ] Brak kandytata
