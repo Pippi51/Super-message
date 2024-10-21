@@ -1,2 +1,2 @@
-# Super-message gg
+# Testujemy reklamę dla Klodi
 Klaudia na prezydenta! 
